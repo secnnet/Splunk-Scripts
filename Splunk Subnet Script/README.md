@@ -37,14 +37,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Acknowledgements
 
 The IP Subnet Truncator script is built using the [Splunk SDK for Python](https://github.com/splunk/splunk-sdk-python). We acknowledge the Splunk team for their excellent work in providing the SDK.
-
-## Contact
-
-If you have any questions or inquiries, please contact [Your Name](mailto:your-email@example.com).
-
-
-
-
-
-
-
