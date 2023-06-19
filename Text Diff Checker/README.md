@@ -42,14 +42,6 @@ The script will analyze the differences between the two files and display the ad
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## Support
-
-If you have any questions or need assistance, feel free to reach out by creating an issue in the repository.
-
 ---
 
 Happy comparing!
