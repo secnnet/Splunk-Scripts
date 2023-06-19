@@ -28,10 +28,6 @@ The Splunk Restart Checker has the following dependencies:
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute this script according to the terms of the license.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ## Disclaimer
 
 This script is provided as-is, without any warranties or guarantees. Use it at your own risk. Review the code and ensure it meets your specific requirements before running it in a production environment.
