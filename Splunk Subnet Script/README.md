@@ -10,7 +10,7 @@ The IP Subnet Truncator is a Python script that truncates IP addresses to their 
 
 3. Install the required dependencies by running the following command:
 
-    ```pip install splunk-sdk
+    ```pip install splunk-sdk 
     ```
 
 4. Modify the script if necessary:
@@ -19,7 +19,7 @@ The IP Subnet Truncator is a Python script that truncates IP addresses to their 
 
 5. Execute the script by running the following command:
 
-	```python ip_subnet_truncator.py	
+    ```python ip_subnet_truncator.py	
     ```
 
 6. The script will integrate with Splunk and process the specified field in the search results. It will add a new field named "subnet" to each result, containing the truncated /24 subnet of the IP address.
