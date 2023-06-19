@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to check if a restart may be required for a particular app/Splunk directory as per
+# Script to determine whether or not a restart of a specific application or directory inside Splunk is required in accordance with
 # https://docs.splunk.com/Documentation/Splunk/latest/Indexer/Updatepeerconfigurations#Restart_or_reload_after_configuration_bundle_changes.3F
 
 # Get the current date and time
