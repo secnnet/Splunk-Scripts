@@ -12,13 +12,13 @@ The IP Subnet Truncator is a Python script that truncates IP addresses to their 
 
     ```pip install splunk-sdk
     ```
-	
+
 4. Modify the script if necessary:
 - Customize the regular expression pattern in `ipregex` if you need to match IP addresses in a different format.
 - Adjust the field name in the `field` variable if you want to process a different field from the Splunk search results.
 
 5. Execute the script by running the following command:
-	
+
 	```python ip_subnet_truncator.py	
     ```
 
