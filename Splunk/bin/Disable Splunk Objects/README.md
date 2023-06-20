@@ -24,10 +24,6 @@ Replace `<source_directory>` with the path to the directory containing Splunk ap
 
 5. The script will process the `props.conf` files, generate modified versions with EVENT_BREAKER configurations, and save them in the specified output directory.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Disclaimer
 
 This script is provided as-is without any warranty. Use it at your own risk.
