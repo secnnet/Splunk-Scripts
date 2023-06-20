@@ -29,10 +29,6 @@ To use this script, follow these steps:
 
 Please note that this script is intended for use in a specific context and may require modifications or adaptations to suit your specific environment and requirements.
 
-## License
-
-This script is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the script in accordance with the terms of the license.
-
 ## Acknowledgments
 
 This script was developed based on the needs and requirements of index tuning in [your software system or application]. We would like to acknowledge the contributions and support of the development team and the broader community.
