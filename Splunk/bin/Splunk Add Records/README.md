@@ -42,8 +42,3 @@ The script includes input validation to handle potential errors or unexpected in
 
 - Python 3.x
 - Splunk
-
-## License
-
-This script is licensed under the [MIT License](LICENSE).
-
