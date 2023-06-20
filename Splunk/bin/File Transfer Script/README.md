@@ -20,10 +20,6 @@ This script is designed to facilitate file transfers using rsync with resume fun
 - `<indexname>`: The index name or identifier for the file transfer.
 - `[bandwidthlimit]` (optional): The desired bandwidth limit for the rsync transfer. If not provided, the default value will be used.
 
-## License
-
-This script is licensed under the [MIT License](LICENSE).
-
 ## Notes
 
 - This script assumes that you have the necessary SSH keys set up to establish a connection with the destination host.
