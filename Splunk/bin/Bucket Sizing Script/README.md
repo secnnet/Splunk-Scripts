@@ -27,14 +27,6 @@ Make sure to update the following variables in the script according to your Splu
 - `rep_factor_multiplier`: Replication factor multiplier for distributed Splunk environments.
 - `do_not_lose_data_flag`: Flag indicating whether to prioritize data retention over bucket size.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This script is licensed under the [MIT License](LICENSE).
-
 ## Disclaimer
 
 Please note that this script is provided as-is and OpenAI or the script author(s) cannot be held responsible for any issues or damages caused by its usage. Always test the script in a non-production environment before applying any changes to your Splunk deployment.
