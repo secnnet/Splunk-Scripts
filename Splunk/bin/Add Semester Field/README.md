@@ -41,4 +41,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+The scripts in this repository are distributed under the [MIT License](LICENSE). By using or contributing to this repository, you agree to comply with the terms and conditions of this license.
