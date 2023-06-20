@@ -38,7 +38,3 @@ This script adds a "semester" field to Splunk search results based on the timest
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-The scripts in this repository are distributed under the [MIT License](LICENSE). By using or contributing to this repository, you agree to comply with the terms and conditions of this license.
